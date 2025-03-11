@@ -1,6 +1,5 @@
 let fmSynth;
 let filt;
-let LFOfilt;
 let panner;
 let values;
 let noise;
