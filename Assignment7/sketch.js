@@ -58,6 +58,7 @@ function draw() {
 }
 
 function mouseClicked() {
+  Tone.start();
   noiseEnv.triggerAttackRelease(9);
   noise.volume.setValueCurveAtTime(values, Tone.now(), 9)
 
