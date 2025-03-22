@@ -7,3 +7,4 @@
 - Assignment 5: https://slevy7736.github.io/Assignment5/
 - Assignment 6: https://slevy7736.github.io/Assignment6/
 - Assignment 7: https://slevy7736.github.io/Assignment7/
+- Assignment 7: https://slevy7736.github.io/Assignment8/
