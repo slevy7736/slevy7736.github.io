@@ -13,7 +13,6 @@ void setup() {
 }
 
 void loop() {
-  //>= 2 doesn't allow for there to be 1 byte when 2 bytes (1 byte per char) should be read
   if (Serial.available() > 0) {
 
     //https://www.arduino.cc/reference/tr/language/functions/communication/serial/readstringuntil/
