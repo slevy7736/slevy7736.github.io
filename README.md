@@ -8,4 +8,3 @@
 - Assignment 6: https://slevy7736.github.io/Assignment6/
 - Assignment 7: https://slevy7736.github.io/Assignment7/
 - Assignment 8: https://slevy7736.github.io/Assignment8/
-- Assignment 8: https://slevy7736.github.io/controller/p5-portion/controller
